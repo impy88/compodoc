@@ -28,9 +28,6 @@ coverage.*
 
 .dockerignore
 
-# Build-output
-dist/
-
 # Miscellaneous
 tmp/
 .tmp/
