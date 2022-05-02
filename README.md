@@ -1,3 +1,5 @@
+# FORK BEFORE THIS PR (https://github.com/compodoc/compodoc/pull/1244) get merged
+
 <p align="center">
   <img src="https://avatars3.githubusercontent.com/u/23202313" alt="Compodoc: The missing documentation tool for your Angular application" width="226">
   <br/>
